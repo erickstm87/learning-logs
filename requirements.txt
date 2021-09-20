@@ -19,7 +19,7 @@ Jinja2==2.10
 lxml==4.2.1
 MarkupSafe==1.0
 mercurial==4.6.2
-mitmproxy==0.11.1
+mitmproxy==7.0.3
 netlib==0.11.2
 passlib==1.7.1
 Pillow==5.1.0
