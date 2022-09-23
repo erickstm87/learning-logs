@@ -23,7 +23,7 @@ mitmproxy==0.11.1
 netlib==0.11.2
 passlib==1.7.1
 Pillow==5.1.0
-protobuf==3.6.0
+protobuf==3.18.3
 pyasn1==0.4.3
 pycparser==2.18
 pyOpenSSL==18.0.0
